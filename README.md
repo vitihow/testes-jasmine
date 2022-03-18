@@ -1,9 +1,9 @@
 # testes-jasmine
 Repositório de testes automatizados com Jasmine Framework. Cursto Técnico SENAI - Desenvolvimento Web de Sistemas
-![image](https://user-images.githubusercontent.com/94020396/158916668-8815b780-ea61-4d5a-ab21-b1e9a0d5df3c.png)
+![image](https://user-images.githubusercontent.com/94020396/158916846-261ae701-3dc1-4596-9d0a-f3bd7e2cfddb.png)
+![image](https://user-images.githubusercontent.com/94020396/158916863-6978c1b4-1118-42a5-8a2c-28b839c9bd6f.png)
+![image](https://user-images.githubusercontent.com/94020396/158916876-1124bd49-9bbf-4417-8ff8-71addb7612f4.png)
+![image](https://user-images.githubusercontent.com/94020396/158916894-9d9223c4-5427-4e95-befd-8ead01ea5840.png)
+![image](https://user-images.githubusercontent.com/94020396/158916911-7d4d4c95-728f-4eae-ac09-173bdbd6cd52.png)
 
-![image](https://user-images.githubusercontent.com/94020396/158916507-9f412628-eb89-4a38-b398-27a26bc2f45f.png)
-![image](https://user-images.githubusercontent.com/94020396/158916624-cd4175f7-6b34-4c54-8599-5f2cc68b55eb.png)
-![image](https://user-images.githubusercontent.com/94020396/158916636-79d2048f-a032-4be0-b1a0-10a82b2f4e09.png)
-![image](https://user-images.githubusercontent.com/94020396/158916740-2584c27b-d93d-4b2e-9f31-e8c961eca99a.png)
 
